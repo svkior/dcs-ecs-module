@@ -1,0 +1,19 @@
+{
+    "author": "Sergey V. Kior",
+    "name": "dcs-ecs-module-client",
+    "description": "Client side for dcs-ecs-module",
+    "version": "0.0.1",
+    "homepage": "http://bitbucket.org/tts/dcs-ecs-module",
+    "repository": {
+        "type": "git",
+        "url": "https://bitbucket.org/tts/dcs-ecs-module"
+    },
+    "dependencies": {
+        "angular": "~1.2.0",
+        "sockjs": "~0.3.4",
+        "vertxbus.js": "http://cdnjs.cloudflare.com/ajax/libs/vertx/2.0.0/vertxbus.js"
+    },
+    "devDependencies": {
+        "angular-mocks": "~1.2.3"
+    }
+}
